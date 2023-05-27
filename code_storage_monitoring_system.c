@@ -1,3 +1,6 @@
+// Code shared by Devang Vartak
+// Incase of any doubts, reach me on devangvartak2304@gmail.com
+
 #include <ESP_Mail_Client.h>
 
 #include <ThingSpeak.h>
